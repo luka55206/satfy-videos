@@ -1,0 +1,46 @@
+SatFy (@TheSatFy, channel id UCqp3ol1tiQRHMATXmFeSKqg) — CHANNEL KNOWLEDGE (living summary, update after every analysis)
+Last update: 2026-10-22. Raw data: reports/exports/<date>/ (comments_clean.txt = every comment, audience_channels.txt =
+competitor Shorts with views). Full write-ups: reports/2026-10-22_report.txt, reports/2026-10-22_full_research.md.
+
+=== NUMBERS (2026-10-22, lifetime) ===
+682K views · 307K engaged · 1,855 watch h · 556 subs (+533 in 28 d) · stayed-to-watch 62.5 % · avg 116 % viewed (loops)
+Traffic 91 % Shorts feed, 3 % search, 0 % suggested. 97.7 % NEW viewers, 98.6 % watch time from non-subscribers.
+Audience: 71 % male · 35-44 25 % / 25-34 24 % / 13-17 22 % · phone 67 % · US 22.7 %, PH 7.6, ID 7.1, IN 4.8, UK 4.3, BR 4.2.
+
+=== THE RULE THAT PREDICTS VIEWS ===
+Stayed-to-watch vs log(views): r = +0.74 (44 Shorts). >= 66 % stayed -> 25K+ views. < 52 % -> under 5K.
+Shorts 13-19 s do best; 23 s+ average 47 % stayed. Check stayed at 24 h; < 50 % = format is dead.
+
+=== WINNING FORMATS (views / stayed) ===
+π blocks: two blocks 73.6K/66.4 %, 100 kg->1e8 kg 28K/70.1 % (channel record). Low likes (0.6 %), few shares.
+Count-to-X (stickman): trillion 63.5K/68.2 %, billion 55.9K/66 %, quintillion 15.1K/63 %, million (new).
+Golden/Fibonacci: Fib p2 70.7K, spiral 46.7K (most SHARED: 26, 18).
+Music+math: functions you can hear 36.5K, 5-functions song 24.1K (best subs: 69 = 2.9/1K), π Canon 23.9K/64 %.
+Paradox/debate: 0.999=1 9.8K/68 % (32 comments), paper to the Moon 21.5K (40 comments), odd Pascal 25.6K/67 %.
+DEAD: ball deviation (32-44 %), regression, sine/cosine, 16-levels series (60->51 %), music sequels w/o a visual story,
+long-form (669 views total over 3 videos).
+
+=== WHAT VIEWERS SAY (524 comments) ===
+- Big Geometry Dash crowd: GD references are the top-liked jokes ("Holy GD wave reference" 17♥, "97.9 %? familiar" 11♥).
+- Sounds become memes: block clacks "really said…" (19♥), "1 mil sounds like Elmo screaming", "No. 6 creeped me out".
+- Requests: googol/googolplex/decillion/quadrillion/sextillion counts; π blocks 1e33 kg; π/φ/e in base 12 on the circle
+  of fifths; Pascal only even / multiples of 5 and 7; "Bad Apple" in math lines; fold paper 103 times (universe).
+- Debates = comments (0.999=1, paper-fold record 12, syllables make counting slower). Sing-along on π Canon.
+- Complaints: 16 levels too fast; "how do the hits show π?" (-> pi_slice explainer).
+- WARNING: "it's an AI channel", "please write your own comments" -> reply in your own words. Ball videos drew
+  "gambling" comments and the trademarked name.
+
+=== COMPETITORS / OVERLAP CHANNELS (what wins there) ===
+The Lab @thelab.67 (30.6K): math SOUNDS + disaster/space STORY — reactor meltdown as math 1.9M, star explodes 807K,
+  black hole 243K, "math functions that go way too hard" (phonk) 390K, "ranking best math sounds" 302K. CLOSEST MODEL.
+Lingualin (268K): math paradox one-liners — "This triangle adds up to 270°" 3.7M, "Cut a pizza like this" 1.8M.
+Tired Monk (862 subs): "How long is one year on each planet?" 689K -> space version of our "how long" format.
+Rollody (828): precise-number titles, "6,560 steps, one line" 117K. Vector_Fox (36K): flag rankings 0.5-3M.
+Graphmath, onjsdev, ZapByteAI, loopmechanics: same niche, smaller. Sarix/schark/HapyPace: Geometry Dash (1-2M).
+
+=== RETENTION SHAPE (#1 video) ===
+Starts ~220 % (replays), slides to ~150 %, sharp drop in the last 0.5 s at the fade back to frame 0.
+
+=== NEXT IDEAS (from the data) ===
+1. "X, as math 🔊" stories (black hole, supernova, rocket, Big Bang). 2. Requested counts (googol built).
+3. π blocks 1e33 kg; pi_slice explainer. 4. Space "how long" comparisons. 5. Quotable, voice-like sounds.

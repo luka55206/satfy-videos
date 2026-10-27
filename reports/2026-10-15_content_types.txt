@@ -1,0 +1,40 @@
+SatFy — WHICH CONTENT IS BETTER? (2026-10-15, per-video export Sep 17 – Oct 15, 30 videos grouped by type)
+Source: reports/exports/2026-10-15/Table data.csv. Metrics per type:
+  views/day = median of each video's views ÷ days since upload (fair to new videos)
+  watched % = watch time ÷ views ÷ length (how much of the video an average view covers)
+  subs/1k   = subscribers gained per 1,000 views
+
+ type                                   videos   views    views/day   watched   subs/1k   verdict
+ Fibonacci / golden ratio                  3   115,760     5,073       57 %      0.51    ★ VIEWS king
+ Escalation / levels (16 levels)           1    23,200     4,640       60 %      1.34    ★ views + subs (only 1 video)
+ Math you can hear (function sounds)       2    44,440     3,857       39 %      1.13    good, but too long (27 s)
+ Math + famous / familiar music            4    33,212     2,408       54 %      1.87    ★ SUBSCRIBER king (balanced)
+ π / geometry history                      1     9,713     1,619       56 %      0.93    ok
+ Seasonal (Halloween)                      1     1,270     1,270       51 %      0       too early (1 day)
+ Satisfying geometry & illusions           4    17,998     1,015       49 %      0.44    medium views, few subs
+ Number facts                              1     1,855       928       44 %      1.62    promising, too early
+ Emotional / relatable                     4     8,512       342       50 %      1.06    low reach, ok subs
+ Statistics / plain graphs                 7    10,243       130       31 %      0.59    ✗ STOP
+ Long-form (2+ min)                        2       382        43       14 %      2.62    ✗ not found yet (but loyal)
+
+WHAT IS BETTER
+1. For VIEWS: Fibonacci / golden ratio (5k/day median, 116k total from just 3 videos) and escalation ("16 levels").
+2. For SUBSCRIBERS: math + familiar music (1.87 per 1k) — π Canon, math song, West Coast beat, Für Elise circle.
+   Number facts (1.62) and escalation (1.34) are also good converters.
+3. Best BALANCE (views AND subs): escalation ("16 levels") and math + familiar music.
+4. Worst: statistics / plain graphs (130 views/day, 31 % watched) — 7 videos, 4 % of all views. Stop.
+5. Illusions/geometry get views but rarely subscribers (0.44) — use them as reach, not as the core.
+6. Long-form is barely discovered (43 views/day) but the few viewers subscribe (2.6 per 1k): the audience likes it;
+   the packaging (title, thumbnail, related-video links) is what's missing.
+
+THE WINNING RECIPE (combine the best types)
+  golden ratio / famous numbers  +  familiar music  +  escalation  +  13–17 s loop
+  e.g. "φ plays [famous piece]", "16 levels of Fibonacci", "π vs φ vs e: which plays the best song?"
+
+MIX FOR THE NEXT 10 SHORTS
+  3 × Fibonacci / golden ratio (views)       3 × math + familiar music (subs)
+  2 × escalation / levels (balance)         1 × illusion (reach)         1 × stick-figure puzzle (test: comments/shares)
+  0 × statistics / plain graphs
+
+Caveat: some types have only 1–2 videos — treat those as promising signals, not proof. The next per-video export
+with Stayed to watch + Shares will tell us which of these also drive sharing.

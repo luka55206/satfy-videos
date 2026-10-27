@@ -1,0 +1,16 @@
+Comments on the googol Short (ot8vRvnm9Ss), read in Studio 2026-10-24: 39 comments and replies.
+
+NUMBER REQUESTS
+- 10^303 (centillion): "i dare you do 1 to 10^303", which started a thread arguing whether it meant 1^(10^303) (= 1).
+- 10^308 = "Infinity" ("Pls 1 to 10^308 = Infinity"); also "Do 2^1024". Both point at the same limit:
+  2^1024 ≈ 1.8 × 10^308 is where a computer's normal numbers overflow and print Infinity.
+- 10^1000 ("googolchime"), 10^3003 (millinillion), 10^3000003 (micrillion; 2 people argued about its value),
+  25^1,312,000, 10^10^10^10^10^100, 5↑↑↑↑5, googolplex.
+NAMES
+- Viewers love and argue about -illion names: "3.2x10^92 = 320 novemvigintillion", "10^93 = trestrigintillion",
+  "googol = 10 duotrigintillion" (with a worked proof).
+JOKES
+- "How is bro alive", "Immortal", "Bros born for counting to googol", "Time travelers from the future".
+- "requested by me???!?!?? NO F***ING WAY": a viewer saw their request made. Reply videos work.
+CRITICISM
+- "how do people not recognize vibecoded mathslop videos", in a thread with the channel.

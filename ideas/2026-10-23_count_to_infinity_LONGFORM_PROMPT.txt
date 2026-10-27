@@ -1,0 +1,74 @@
+LONG-FORM PROMPT: "COUNTING TO INFINITY" (stickman, 16:9, ~9:50)
+Written 2026-10-23 from our data (reports/2026-10-22_report.txt, reports/2026-10-23_longform_research.txt).
+Scene: scenes/count_infinity.py
+
+WHY THIS VIDEO
+- Count-to-X is our engine: trillion 63.5K, billion 55.9K, quintillion 15.1K, million 1.5K in 3 h, all 63-68 % stayed.
+- Viewers asked for googol / googolplex / decillion (~12 comments) and argued that "saying big numbers takes longer".
+- Long-form that works near us is ONE climbing journey (Vsauce "How To Count Past Infinity" 29.7M,
+  KLT size comparison 57M), not a compilation. Our 3 compilations got 669 views total.
+- Over 8:00 so mid-roll ads are possible. Never pad to get there: every level is a real rung.
+
+THE ARC (one question, 11 rungs, each answered)
+Question in the first 10 s: "How long until you reach INFINITY?" A ladder of 11 levels appears at the top with "?"
+under each. Every level fills one rung with its answer, so the viewer always sees how many are left.
+Rule: 1 number per second, no sleep, no breaks (later a computer counting 1 billion per second, then a
+computer for every grain of sand: each upgrade is a twist that resets attention, every ~2 minutes).
+
+ 0:00 INTRO      A is already counting 1, 2, 3 at frame 0. B: "How long until you reach INFINITY?" The ladder pops in.
+ 0:12 L1 100       Microwave pizza: the timer runs 1:40 -> 0:00 and DINGS exactly at 100.        = 1 min 40 s
+ 0:40 L2 1,000     The wall clock spins, B naps (Zzz), wakes up: "did I miss it?"                 = 16 min 40 s
+ 1:14 L3 MILLION   The window runs through day and night, pizza boxes stack up, stubble grows.     = 11 days 13 h
+                   Fact: longer than the no-sleep record (11 days, 1964).
+ 2:16 L4 BILLION   The calendar runs 2026 -> 2057; A grows a white beard, B gets a cane, a kid grows up, a tree grows.
+                   = 31.7 years. TWIST: "Say THIS in 1 second": 777,777,777 typed in words, the stopwatch shows ~5 s
+                   -> a real billion takes about 150 years. Rewind to young.
+ 3:26 L5 TRILLION  "Imagine you started in the ICE AGE": the scenery runs through history, from mammoths and cave paintings
+                   to farms, pyramids, Rome, castles and the city, with a timeline bar. = 31,710 years: start with
+                   the cave painters, finish today.
+ 4:32 L6 COMPUTER  B rolls in a computer counting 1 BILLION per second: a trillion in 16 min 40 s. Then 1 QUINTILLION:
+                   they walk out, cobwebs grow, they come back old. = 31.7 years. By hand: 31.7 billion years (2x the
+                   age of the universe).
+ 5:28 L7 SAND      Beach, hourglass. Every grain of sand on Earth (about 7.5 x 10^18) = about 237 years with the computer,
+                   237 billion years by hand.
+ 6:20 L8 ATOMS     10^80 atoms. "A computer for EVERY grain of sand": the army fills the ground, then zoom out
+                   from the Earth to the Sun, the galaxy and the cosmic web. = 4 x 10^44 years. The universe is 1.4 x 10^10.
+ 7:16 L9 GOOGOL    The same army. The Sun dies (5 billion years), the last star dies (100 trillion years), darkness,
+                   A glows. = 4 x 10^64 years (by hand 3 x 10^92).
+ 8:06 L10 GOOGOLPLEX "I'll just write it down": endless zoom-out of zeros, OUT OF ATOMS at 10^80 zeros.
+                   = can't even be WRITTEN.
+ 8:52 L11 INFINITY Numbers fly into a glowing infinity sign. "Whatever you reach, there's always +1." = never.
+                   A: "Then I'll keep counting!"
+ 9:26 RECAP        Every level and its time in one table (end-screen space), A small in the corner: 1... 2... 3...
+
+PACING (not too slow, not too fast)
+- Each level: title (2 s) -> 2-3 typed lines -> real-time count of the first numbers -> fast-forward with a visible
+  story (aging, sky, history) -> DING reveal card (4 s) that flies into the ladder -> one fact or joke -> next.
+- Levels are 28-70 s. A typed line holds >= 1.2 s after its last letter. Something changes on screen every <= 3 s.
+- Twists at 3:00 (saying numbers), 4:30 (computer), 6:30 (sand army), 8:10 (can't write it).
+
+LOOK (ours: dark navy + neon, the shipped stickman characters)
+- Blue A (the counter), orange B (the friend), typed speech bubbles, gold numbers, SatFy watermark.
+- Top: the 11-rung ladder. Upper centre: "COUNTING TO ...", the big counter and the time spent. Bottom: one fact line.
+- Every level has its own scenery (room, window, history, beach, space, zeros), all drawn by code.
+- No white boards, no flashes (fades through dark only; the Sun's death is a slow glow).
+
+SOUND (original, synthesised)
+- Soft plucked chord loop, 100 BPM; the key and progression change every level; darker and sparser in space.
+- A pop per counted number in real time, a capped tick stream in fast-forward, a DING on every reveal, a whoosh
+  on every card flight and transition, blip voices for typed lines, small SFX (microwave hum + ding, clock, snore,
+  computer hum, waves, boom when the Sun dies). -14 LUFS.
+
+HONEST NUMBERS (checked)
+1e2 s = 1 min 40 s · 1e3 s = 16 min 40 s · 1e6 s = 11.57 days (record awake 264 h = 11 days, Randy Gardner 1964)
+1e9 s = 31.7 years · 1e12 s = 31,710 years (start = about 29,700 BC, Ice Age) · computer 1e9/s:
+1e12 = 16 min 40 s, 1e18 = 31.7 years · sand on Earth: about 7.5e18 (estimate) -> 237 years (computer),
+237 billion years (by hand) · atoms: about 1e80 / (7.5e18 x 1e9 per s) = 1.3e52 s = 4.2e44 years ·
+googol at the same rate: 4.2e64 years; by hand 3.2e92 years · Sun: about 5 billion years · last stars: about 1e14 years
+· googolplex: 1e100 digits > 1e80 atoms.
+Saying numbers: about 25 syllables for a 9-digit number, about 5 s -> about 150 years for a real billion
+(shown as "about").
+
+METADATA DIRECTION
+Title (search phrase first, no emoji): "How Long Would It Take to Count to Infinity?" /
+"Counting from 100 to a Googolplex: How Long Does Each Take?" Chapters = the levels. Shorts "Related video" -> this.

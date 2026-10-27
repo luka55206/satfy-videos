@@ -1,0 +1,47 @@
+SatFy (@TheSatFy, UCqp3ol1tiQRHMATXmFeSKqg) — REPORT 2026-10-22, read live from YouTube Studio (Advanced mode, lifetime)
+Previous: reports/2026-10-20_report.txt (CSV export, data to Oct 19).
+
+1. CHANNEL
+- Views 682,029 (+80,472 since the Oct 20 export) · engaged 306,762 · watch time 1,855 h · avg view 0:21 (116 % = loops)
+- Subscribers 556 (dashboard), +533 in 28 days; 640 gained lifetime. Stayed to watch 62.5 % channel-wide.
+- Traffic: Shorts feed 91.1 %, channel pages 4.0 %, YouTube search 3.1 %, suggested 0.0 %.
+- Countries: US 22.7 % (27 subs net, the only big sub source with the Philippines 15), Philippines 7.6, Indonesia 7.1,
+  India 4.8, UK 4.3, Brazil 4.2, Vietnam 2.7, Canada 2.5.
+- Age: 35-44 25.0 %, 25-34 23.4, 13-17 22.2, 45-54 14.1, 18-24 10.7 (older than expected).
+
+2. TOP BY VIEWS (views / stayed / subs)
+ 73,578  Two blocks crash into a wall: π           66.4 %  30
+ 70,727  Fibonacci part 2                         65.7 %  28
+ 63,545  Count to a trillion                      68.2 %  46
+ 55,914  Count to a billion                       66.0 %  50
+ 46,666  Golden ratio spiral                      67.2 %  33
+ 36,491  Math functions you can hear              61.6 %  44
+ 28,036  From 100 kg to 100,000,000 kg (pi_blocks_next, 2 days)  70.1 % ← best stayed on the channel  13
+ 25,645  Colour only the odd numbers              67.0 %  14
+ 24,998  16 levels of math                        60.7 %  31
+ 24,136  5 math functions build one song          52.9 %  69 ← best subs
+ 23,884  π plays Pachelbel                        64.2 %  22
+ 21,535  Fold paper 42 times                      61.3 %  15
+ 15,108  Count to a quintillion (2 days)          63.0 %  16
+
+3. NEWEST (hours to 2 days old — too young to judge, stayed is the early signal)
+ Count to a million: 1.5K in 3 h, 122.8 % avg viewed (dashboard) · Prime spiral 1,832 / 61.1 % · Eagle 1,854 / 57.4 %
+ Math song part 2: 3,285 / 49.2 % (weak) · 16 levels of algebra: 2,997 / 50.8 % (weak) · Geometry levels 4,201 / 51.6 %
+
+4. READ
+- The two engines are confirmed: π blocks (73.6K + 28.0K, 66-70 % stayed) and count-to-X (trillion 63.5K, billion 55.9K,
+  quintillion 15.1K, all 63-68 %). Both sequels kept the stay rate; the π blocks sequel set the channel record (70.1 %).
+- Music: the subscriber engine stays "5 functions build one song" (69 subs), but music sequels fade: song part 2 49 %,
+  West Coast 45.7 %, 7 more graphs 44.7 %. Only music WITH a visual idea (π Canon 64 %, Für Elise 64.8 %) holds.
+- "16 levels" keeps falling: math 60.7 -> part 2 57.5 -> geometry 51.6 -> algebra 50.8. Stop the series.
+- Ball deviation / regression / sine: 32-44 % stayed, 1.4-2.1K each. Dead.
+- Long-form: 3 videos, 669 views total, 20-32 % viewed. Not working; 0.0 % of views come from suggested videos.
+- Stayed >= 66 % ≈ 25K+ views; < 52 % ≈ under 5K. Same gate as before.
+
+5. ACTIONS
+1. Ship next: pi_blocks_trillion (sequel of the record holder) and the googol count; keep pi_slice and times_circle
+   as tests (watch stayed at 24 h).
+2. Kill: 16 levels, music-only sequels without a visual hook, all ball/regression formats.
+3. US is 22.7 % of views and the main sub source: post for US evening (after midnight Tbilisi); Veterans Day (Nov 11)
+   for the eagle style.
+4. Next export ~Oct 25 (the million / prime spiral / eagle at 72 h).

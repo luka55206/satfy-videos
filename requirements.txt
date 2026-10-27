@@ -1,0 +1,10 @@
+pycairo
+numpy
+scipy
+soundfile
+pedalboard
+pyloudnorm
+mido
+pandas
+Pillow
+shapely

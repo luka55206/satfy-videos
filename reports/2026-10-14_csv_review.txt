@@ -1,0 +1,74 @@
+SatFy — CSV REVIEW (YouTube Studio export: Totals.csv, Table data.csv, Chart data.csv)
+Data window: 2026-09-15 … 2026-10-12 (the last day is probably partial — the export day).
+Videos uploaded after Oct 12 (tusi, spin_wave, math_song, equals_one, number_secrets, pumpkin …) are NOT in this data.
+
+======================================================================================================
+1. CHANNEL TOTALS
+======================================================================================================
+- 22 Shorts, 195,819 views, 527 watch hours, average view duration 0:19.
+- Daily channel views: 2.5k (Oct 4) → 4.7k (Oct 7) → 10.4k (Oct 8) → 24k → 27k → 83k (Oct 11) → 37k (Oct 12, partial?).
+  The jump on Oct 11 = "Fibonacci part 2" going wide (48.5k views on its first day).
+- 3 videos = 74 % of all views: Fibonacci part 2 (66k), Golden ratio spiral (44k), Math functions you can hear (34k).
+
+======================================================================================================
+2. PER VIDEO (views · length · average view duration · % viewed · views per day since upload)
+======================================================================================================
+ views  title                                     len  AVD  %viewed  views/day
+ 66416  Fibonacci part 2: 26 sums to φ            15s  17s   113%     33,208   ← loop works, best franchise
+ 44052  The golden ratio hides in this spiral     18s  20s   111%      7,342
+ 34213  Math functions, but you can hear them     27s  22s    81%     11,404
+  8759  7 more graphs, 7 more voices (part 2)     27s  20s    74%      4,380   ← sequel lost ~75 % of the reach
+  7962  How Archimedes found π                    13s  16s   123%      2,654
+  4243  Only ONE angle makes a perfect tree       13s  20s   154%      4,243   ← best loop on the channel (1 day of data)
+  3606  They come so close… but never touch       39s  30s    77%        601   ← too long
+  3093  16 levels of math in 13 seconds           13s  16s   123%      1,546
+  2729  Why consistency always beats talent       17s  22s   129%        682
+  2214  Can math fall in love?                    25s  21s    84%        369
+  2029  Zoomed out 518,000×                       21s  19s    90%        406
+  1943  Why do sunflowers use 137.5°?             18s  13s    72%        389
+  1777  Your heart when she texts back            15s  16s   107%        444
+  1492  π plays Pachelbel's Canon                 14s  15s   107%      1,492   (1 day)
+  1325  This West Coast beat is 100% math         22s  14s    64%      1,325   (1 day) ← weak hold
+  1422  Can Sine and Cosine Ever Match?           21s  19s    90%        203
+  1304  30 Points, One Perfect Fit                20s  16s    80%        186
+  1261–1876  ball deviation ×5                    22–26s     58–73%     158–208  ← weakest series
+Median % viewed: 83 %.
+
+======================================================================================================
+3. WHAT THE NUMBERS SAY
+======================================================================================================
+A) SHORT + LOOPABLE WINS. Every video ≥ 100 % viewed is 13–18 s long. Every video ≥ 25 s is below 85 %.
+   The two big hits are 15 s and 18 s and loop (113 %, 111 %): viewers watch them more than once.
+   → Keep Shorts at 13–20 s. Nothing over 25 s unless the escalation really needs it.
+
+B) THE FIBONACCI / GOLDEN-RATIO THEME IS THE CHANNEL'S ENGINE. 110k of 196k views.
+   The golden spiral peaked on day 3 (20.7k) and decays normally (7.0k → 4.0k → 2.8k); Fibonacci p2 did 48.5k on day 1.
+   → Ship the next one in this franchise soon: fib_dive ("count down the golden spiral to 1") is waiting in needs-review.
+
+C) SEQUELS NEED A NEW HOOK, NOT JUST "PART 2". Math sounds p1: 34k (11.4k/day). Part 2: 8.8k (4.4k/day), and its
+   % viewed fell 81 % → 74 %. Same length (27 s) and a similar first second.
+   → Part 3 must be shorter (≤ 20 s) and open with its strongest sound in the first second.
+
+D) PERFECT TREE IS THE ONE TO WATCH. 154 % viewed on its first day (13 s, people rewatch it ~1.5×) and 4.2k views on day 1,
+   the best first day after Fibonacci p2. If it keeps > 120 % over the next days → make a sequel ("only ONE angle…" for another shape).
+
+E) LONG AND REPETITIVE FORMATS UNDERPERFORM.
+   - "They come so close… but never touch" (39 s): 77 % viewed, 600 views/day. Too long for the idea.
+   - Ball deviation ×5 (22–26 s, near-identical): 58–73 % viewed, ~170 views/day each. The series reads as a re-skin.
+     Stop it (it's also the "repetitive content" pattern YouTube's policy warns about).
+   - West Coast beat (22 s): 64 % viewed on day 1. Music-only hooks hold less than visual payoffs.
+
+F) CTR IS NOT A SHORTS METRIC. "Thumbnail impressions / CTR" here come from search, browse and channel pages, not the Shorts feed.
+   Ignore CTR for Shorts decisions; watch % viewed and views/day instead.
+
+======================================================================================================
+4. ACTIONS (in order)
+======================================================================================================
+1. Upload fib_dive (golden-ratio franchise) next; then golden_zoom.
+2. Keep every Short 13–20 s with a loop or a payoff-first opening.
+3. Trim math_sounds_p3 to ≤ 20 s before shipping it; open on the funniest sound.
+4. No more ball-deviation episodes; don't upload near-identical variants of one idea.
+5. Watch perfect tree and π Canon for 3 more days; sequel whichever stays above ~110 % viewed.
+6. Export the same CSVs again around Oct 18. That covers tusi, spin_wave, math_song, equals_one and number_secrets,
+   and shows whether the familiar-music hooks (π Canon, Für Elise, Ode to Joy) beat the plain ones.
+   Also add "Stayed to watch" (Shorts feed) to the export if Studio allows: it's the #1 reach predictor.

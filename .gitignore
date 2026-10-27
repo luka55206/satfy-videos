@@ -1,0 +1,40 @@
+# working outputs (shipped deliverables are tracked in final/, not output/)
+# output/*.png
+# output/*.wav
+# output/*_silent.mp4
+# output/*.mp4
+# output/*_events.json
+# output/verify/
+
+# reference material (re-fetchable via yt-dlp) — keep the analysis scripts /
+# JSON / beat sheets / benchmarks at research/, ignore only the heavy decoded
+# frame dumps (per-reference <slug>/full and <slug>/grid, plus the legacy names)
+research/reference-videos/
+research/frames_grid/
+research/frames_full/
+research/*/grid/
+research/*/full/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# big CC0 sample packs (re-downloadable; see assets/samples/README when added)
+assets/samples/
+
+# melody audition scratch (regenerable via tools/audition_melodies.py)
+output/melody_audition/
+output/*
+!output/.gitkeep
+
+# rendered video — never tracked (GitHub can't hold it; 246 clips = 27 GB of
+# history). Deliverables live on disk under final/ ; the ARCHIVE RECORD that
+# stays in git is each folder's MANIFEST.md / UPLOAD.md / thumbnail PNGs.
+*.mp4
+*.mov
+*.mkv
+*.webm
+
+# per-PC Claude-in-Chrome deviceId (each machine proves its own; never synced)
+.claude/browser.local

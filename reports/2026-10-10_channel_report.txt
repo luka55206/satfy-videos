@@ -1,0 +1,311 @@
+CHANNEL REPORT: MATH SHORTS
+Date: 2026-10-10
+Source: your YouTube Studio screenshots in final/uploaded/<video>/ (18 screenshots, 7 Shorts)
+Written for: you, the channel owner
+
+==================================================================================================
+0. HOW TO READ THIS REPORT
+==================================================================================================
+- The videos are different ages (11 hours to 3 days), so view counts are not fully comparable.
+  "Stayed to watch" (STW) is comparable: it settles within the first few hundred views.
+- STW = the share of people who did NOT swipe away at the start. On Shorts it is the number YouTube
+  reacts to most. AVD = average view duration.
+- Demographics (age, gender, country) are unreliable on small videos. When a 600-viewer video shows
+  "100% male, 100% aged 13-17", YouTube only had data on a few signed-in viewers. Only the
+  Fibonacci video (31k views) has demographics worth trusting.
+- Numbers are facts from the screenshots. Lines marked "Opinion:" are my interpretation.
+
+==================================================================================================
+1. ALL VIDEOS AT A GLANCE (best to worst by stayed to watch)
+==================================================================================================
+ #  Video              Title used                                   Age     Views    STW     AVD / length   Subs
+ 1  fib_spiral_v2      The golden ratio hides in this spiral ✨      ~2.5 d  31,530   69.5%   0:19 / 0:18    +20
+ 2  phi_spin_v3        They come so close… but never touch 💫         ~3 d    ~1.3k*   62.8%   0:30 / 0:39    ?
+ 3  heart_eq_v1        Can math fall in love? 💗📈                    ~3 d    1,800    60.9%   0:19 / 0:25    ?
+ 4  habit_race_v8      Why consistency always beats talent 🔥         ~11 h   1,533    50.5%** 0:21 / 0:17    +1
+ 5  mandel_graph_v2    Zoomed out 518,000× and it's still the same 💫 ~1.5 d  1,415    47.2%   0:19 / 0:21    0
+ 6  sunflower_v1       Why do sunflowers use 137.5°? 🤯               ~2 d    1,398    43.6%   0:13 / 0:18    +4
+ 7  heart_beat_v4      Your heart when she texts back 💗              ~15 h   167      19.1%   0:13 / 0:15    0
+ *  phi_spin: only the Engagement tab was captured (1.3k engaged views, 628 unique viewers).
+ ** habit_race: early value; the retention graph was not ready yet.
+
+THE PATTERN
+- 69.5% STW  -> pushed far beyond the test group: 31.5k views and still climbing.
+- 44-63% STW -> each stopped at about 1.3k-1.8k views (= the size of YouTube's first test group).
+- 19% STW    -> stopped during the test: 167 views.
+Opinion: on this channel right now, the gate to real reach sits around 65-70% stayed to watch. The
+older channel this project was copied from measured the same thing (stayed to watch was its strongest
+predictor of views; 65%+ meant about 5x more views). Your data confirms it.
+
+==================================================================================================
+2. EACH VIDEO IN DETAIL
+==================================================================================================
+
+--------------------------------------------------------------------------------------------------
+2.1 FIBONACCI SPIRAL: "The golden ratio hides in this spiral ✨"   (THE WINNER)
+--------------------------------------------------------------------------------------------------
+FACTS
+- Views 31,530 (28,692 of them in the last 48 hours); +20 subscribers.
+- Stayed to watch 69.5% (69.3% stayed / 30.7% swiped).
+- AVD 0:19 on an 18 s video: on average people watched MORE than the whole video (rewatches).
+- Engaged views 16K, unique viewers 4.4K, watch time 91.8 hours.
+  (Unique viewers in Studio lag behind and are often under-counted. Even so, engaged views far above
+  unique viewers means many people looped it 2-4 times.)
+- Traffic: Shorts feed 92.9%, YouTube search 5.1%, other YouTube features 1.3%, browse 0.3%,
+  channel pages 0.3%. Top search term: "golden ratio" (9.6% of search views).
+- Views curve: slow on day 1 (about 5k), then accelerating on day 2 (to about 27k), still rising.
+- Audience: male, 25-34 49.4%, 13-17 27.4%, 18-24 23.2%. Devices: phone 78.7%, tablet 9.5%,
+  computer 8.3%, TV 3.3%. Countries VERY spread: the top one (US) is only 0.9%, then the
+  Philippines 0.8%, Russia 0.5%, India 0.5%, Australia 0.4%.
+- Only 0.2% of watch time came from subscribers: almost everyone is new.
+
+WHAT HAPPENED
+- It passed the first test with ~70% STW, so YouTube kept expanding it in waves. That's why the
+  curve gets steeper on day 2 instead of flattening.
+
+WHY (opinion)
+1. A famous name. "Golden ratio" and "Fibonacci" are known worldwide and actually searched (it is
+   the only video with real search traffic). People recognise them in under a second.
+2. The first frame states the game. It is almost empty: one dot, "F(1) = 1" and
+   "ratio = 1.0000000000". The brain immediately expects "this will grow, and that number will
+   settle on something". That expectation is the reason not to swipe.
+3. Something changes every half-second. A new square, a bigger F(n), and the ratio digits move.
+   There is never a dull moment.
+4. A visible finish line. The digits turn gold one by one toward 1.6180339887. People wait for the
+   last gold digit; that's the payoff.
+5. Short (18 s) plus a smooth loop: the rewind-dive back to "1" makes people watch again, and
+   rewatches are a very strong signal.
+6. A clean, readable picture: big squares, big numbers, high contrast; easy to read on a phone.
+7. Universal: numbers and shapes need no language, so YouTube could test it in every country.
+   That's why the country list is so flat.
+
+LESSON
+This is your template: a famous constant or name, a first frame that states the game with a number,
+a counter that changes constantly, a visible finish line, 15-20 s, and a loop.
+
+--------------------------------------------------------------------------------------------------
+2.2 SPINNING ARMS: "They come so close… but never touch 💫"
+--------------------------------------------------------------------------------------------------
+FACTS
+- Engaged views 1.3K, unique viewers 628, watch time 11.0 hours, AVD 0:30 on a 39 s video.
+- Stayed to watch 62.8% (62.5 / 37.5). End screen clicks 0%.
+- Engaged-views curve: about 600 on day 1, flat, then a SECOND rise from day 1.5 to day 2.6 up to 1.3K.
+- Devices: phone 69.2%, computer 14.7%, tablet 9.7%, TV 6.1% (unusually high computer and TV).
+- Countries: US 7.4%, the Philippines 5.4%, Australia 3.5%, Russia 2.4%, Indonesia 1.9%.
+- Subscribers' share of watch time 1.3%.
+
+WHAT HAPPENED
+- A good but not winning test (62.8%), so it stalled near the test size. Then a second small wave
+  came at the same time the Fibonacci video took off.
+
+WHY (opinion)
+- Good: people who stayed watched 77% of a long video (30 of 39 s), so the content holds attention.
+  The emotional caption and the zoom moments worked. The high computer/TV share says some people
+  watched it as a calm "screensaver".
+- Not enough: (1) the first frame is two thin arms and a thin line on black, which doesn't promise
+  anything specific in the first second. (2) 39 s is long, so the share who finish and loop is lower.
+  (3) "φ" isn't named in a way people recognise instantly; the title is poetic, not a famous keyword.
+- The second wave is most likely the Fibonacci video sending a little traffic to your channel, and
+  YouTube re-testing related videos from a channel that suddenly has a hit. That happens often.
+
+LESSON
+The emotional idea works, but it needs a recognisable "game" in frame 0 and a length under 25 s.
+
+--------------------------------------------------------------------------------------------------
+2.3 HEART EQUATION: "Can math fall in love? 💗📈"
+--------------------------------------------------------------------------------------------------
+FACTS
+- Views 1.8K, engaged 997, unique 764, watch time 5.6 h, AVD 0:19 on a 25 s video.
+- Stayed to watch 60.9% (60.6 / 39.4).
+- Traffic: Shorts feed 92.4%, channel pages 2.8%, search 2.1%, other 2.0%, external 0.3%.
+  Search term "emo robot" 5.4% (random; ignore it).
+- Views curve: slow start, then in steps up to 1.8K over about 3 days (several small re-tests).
+- Audience: male 86.3%, female 13.7% (the only video with a real female share); 13-17 57.3%,
+  25-34 42.7%; US 13.1% (the highest US share), Indonesia 4.9%, the Philippines 3.6%,
+  Brazil 3.4%, Russia 3.1%. Phone 80.6%.
+
+WHAT HAPPENED
+- A near-pass (61%). YouTube kept giving it small extra test groups (the "steps" in the curve),
+  but never a big push.
+
+WHY (opinion)
+- Good: a heart is instantly recognisable and the topic is emotional, which brings more women,
+  more teens and the most US viewers.
+- Not enough: frame 0 shows a plain V-shaped curve with "a = 0.00". The heart only becomes clear
+  after several seconds, so the hook is a promise ("watch the waves become a heart") instead of
+  something already exciting. The counter "a" moves slowly at first.
+- The question title ("Can math fall in love?") is cute but has no famous keyword.
+
+LESSON
+Recognisable object = good. Make the picture exciting from frame 0 (motion plus a fast-moving number).
+
+--------------------------------------------------------------------------------------------------
+2.4 HABIT RACE: "Why consistency always beats talent 🔥"   (still early)
+--------------------------------------------------------------------------------------------------
+FACTS
+- 1,533 views after about 11 hours; +1 subscriber.
+- The views curve was flat for the first 2 hours, then jumped to about 1.3K by hour 4 (the test
+  group), then slow.
+- Stayed to watch 50.5% (early), AVD 0:21 on a 17 s video (people loop it).
+- Traffic: Shorts feed 100%. Still about 24 views per hour when the screenshot was taken.
+
+WHAT HAPPENED
+- A normal first test, with STW in the "stall" band. Unless STW rises as more data comes in, expect
+  it to settle around 2-3k.
+
+WHY (opinion)
+- Good: a motivational message plus a clear race, and people rewatch it (AVD > length). A
+  reference video with this exact structure has 7.9M views, so the format can work.
+- Not enough: (1) the first 2-4 seconds show an almost empty graph at "Day 0" with tiny lines.
+  We made the start slower on purpose, and that's exactly the moment people decide to swipe. (2) The
+  overtake (the payoff) comes at 13 s of 16. (3) The reference's audience is motivational; ours is
+  "satisfying maths". Small mismatch.
+- If remade: start at full speed with both lines already moving and big numbers, show the gap closing
+  from second 1, and put the overtake at about 8-9 s.
+
+LESSON
+A slow start costs reach every time, even when the ending is great.
+
+--------------------------------------------------------------------------------------------------
+2.5 MANDELBROT: "Zoomed out 518,000× and it's still the same 💫"
+--------------------------------------------------------------------------------------------------
+FACTS
+- Views 1,415, subscribers 0. Engaged 545, unique 450, watch time 3.1 h.
+- Stayed to watch 47.2% (47.4 / 52.6). AVD 0:19 on a 20 s loop (those who stay watch it all).
+- Traffic: Shorts feed 91.7%, other 2.7%, channel pages 2.5%, search 2.4%.
+- Views curve: jumped to about 1.2K within hours, then flat.
+
+WHAT HAPPENED
+- Failed the test (47%), so YouTube stopped pushing it after the first batch.
+
+WHY (opinion)
+- People who stayed loved it (they watched the whole loop). But more than half swiped immediately.
+- Frame 0 is dense: very fine coloured lines on dark blue, small grid labels, lots of detail. On a
+  phone, in the first second, it reads as "noise". The idea ("this is a copy, the real one is
+  bigger") is clever but takes thinking. Shorts viewers decide in about 1 second.
+- The title and caption are good, but they can't fix a busy first frame.
+
+LESSON
+Avoid dense, fine-detail images in frame 0. Clever twists need a simple, bold opening picture.
+
+--------------------------------------------------------------------------------------------------
+2.6 SUNFLOWER: "Why do sunflowers use 137.5°? 🤯"
+--------------------------------------------------------------------------------------------------
+FACTS
+- Views 1,398, +4 subscribers (decent for its size). Stayed to watch 43.6%, AVD 0:13 on 18 s.
+- Traffic: Shorts feed 93.8%, channel pages 2.5%, other 1.9%, search 1.1%, playlists 0.4%.
+- Views curve: about 1.1K within hours, then a slow rise to 1.4K.
+- The retention graph falls steadily through the video (people leave before the payoff).
+
+WHAT HAPPENED
+- Failed the test. The steady decline means the payoff (the sunflower at 11 s) was too far away.
+
+WHY (opinion)
+- Frame 0 is a small disc of dots, so the sunflower, the thing in the title, isn't visible until
+  11 s. The viewer sees "spinning dots" and leaves.
+- The angle counter (134.000° → 137.508°) moves, but nobody knows what number to wait for, unlike
+  the Fibonacci video, where "ratio → φ" was obvious.
+- The question title is good (it got 4 subscribers), but the video "answers" it too late.
+- If remade: show a flash of the finished sunflower in the first second, then "how does nature do
+  this?", then the build. Or put the target "→ 137.508°" on screen from frame 0.
+
+LESSON
+Show the destination (or name it as a target number) in frame 0. Never hide the payoff until the
+last third.
+
+--------------------------------------------------------------------------------------------------
+2.7 HEART BEAT: "Your heart when she texts back 💗"   (FAILED)
+--------------------------------------------------------------------------------------------------
+FACTS
+- Views 167 after about 15 hours. Stayed to watch 19.1% (80.9% swiped away). Engaged views 34.
+- Traffic: Shorts feed 76.5% (low), channel pages 11.2% (high), external 5.3%,
+  notifications 3.5%, search 2.4%.
+- Views curve: about 120 in the first hour, then almost flat.
+
+WHAT HAPPENED
+- YouTube showed it to a small test group; 4 out of 5 swiped away, so it stopped showing it.
+  Many of the 167 views came from people visiting your channel page or notifications, not from the
+  feed.
+
+WHY (opinion), in order of importance
+1. A calm start, by design. The first ~2 seconds are a heart beating slowly at 72 bpm, with the
+   message only at 2 s. On the feed that's when the swipe happens.
+2. A wrong-audience signal. A relationship meme ("she texts back") with a soft pink heart looks like
+   a romance or meme channel. YouTube tested it on viewers similar to your maths audience, and for
+   them it isn't what they came for.
+3. No "game" to wait for. The bpm number climbs, but there's no clear target or question in the
+   first second.
+4. The ECG plus heart image is very common in stock-style content, so it may read as "generic"
+   rather than "math art".
+
+LESSON
+No memes or relationship jokes. Never start calm. The first second must show the game and the
+motion.
+
+==================================================================================================
+3. WHO YOUR AUDIENCE IS, AND WHY
+==================================================================================================
+- 92-100% of views come from the Shorts feed; 98-100% of viewers are NOT subscribed. YouTube shows
+  your videos to strangers, not followers. Normal for a new channel.
+- Male-dominated, with two age clusters: teens (13-17) and 25-34. That's the typical audience for
+  "satisfying maths / visual puzzles". The heart video is the only one with a real female share (14%).
+- Worldwide: the US is only 1-13% of views; the rest is spread across the Philippines, Indonesia,
+  Russia, Brazil, India and Australia. The videos have little language, so YouTube tests them
+  globally. Effect: low ad pay per Short view (normal for Shorts). Income will come later from
+  longer videos, compilations and a bigger subscriber base.
+- Some computer and TV viewing (up to 21% on the spinning arms) means people also use calm visuals
+  as "ambient" viewing, a hint that long relaxing compilations could work later.
+- Subscriber conversion is low (0.06% on the winner), because nothing tells viewers a series
+  continues.
+
+==================================================================================================
+4. WHAT TO DO NEXT, AND WHY
+==================================================================================================
+4.1 THE FORMULA (from your own winner)
+  1. A famous name or constant in the title and on screen: φ, π, e, √2, Fibonacci, primes.
+  2. Frame 0 states the game: a number already visible, for example "π ≈ 3.0000000000".
+  3. A counter that changes at least every half-second while something builds.
+  4. A visible finish line: digits locking in gold, a counter reaching its target.
+  5. 15-20 s, bold and readable on a phone (big shapes, big numbers, no fine detail).
+  6. A smooth loop that invites rewatching.
+
+4.2 NEXT VIDEOS TO TEST (in this order)
+  1. FIBONACCI PART 2. Same proven format, new picture (for example the tiling built from circles,
+     or the golden spiral drawn by Fibonacci rectangles in colour). Do it fast while part 1 is still
+     being pushed. Title with "golden ratio" or "Fibonacci".
+  2. π EMERGES. Dots fall into a square with a circle inside; π's digits lock in gold
+     (π ≈ 3.14159265…). It also links back to the channel's peg-drop niche.
+  3. e EMERGES. (1 + 1/n)ⁿ as "compound interest". Careful with money words (channel rules), so
+     frame it as growth: digits lock into 2.718281828.
+  4. √2 EMERGES. Squares inside squares; digits lock into 1.41421356.
+  -> Present them as a series, "Famous Numbers #1, #2, …".
+
+4.3 STOP DOING
+  - Memes and relationship framing (heart beat: 19%).
+  - Calm or empty openings (heart beat, habit race, sunflower).
+  - Payoffs that only arrive in the last third (sunflower).
+  - Dense fine-detail images in frame 0 (Mandelbrot).
+  - Videos longer than ~25 s.
+
+4.4 GROWTH MECHANICS
+  - Series label on screen ("Famous Numbers #3") and an end message like "Next number tomorrow".
+    That gives viewers a reason to subscribe. Then actually post the next one.
+  - Titles: keep the famous keyword near the start ("Golden ratio…", "π…"); that brought the
+    winner its search traffic.
+  - Related video: link every new Short to the Fibonacci winner.
+  - Pinned comment with a question, to get comments (another engagement signal).
+
+4.5 RHYTHM AND MEASUREMENT
+  - Post 2-3 Shorts per day at regular times.
+  - After 24-48 hours, read stayed to watch:
+      >= 65%  -> make a follow-up immediately (a new picture, the same formula).
+      50-65%  -> fix the first second and re-test the idea once.
+      < 50%   -> drop the format.
+  - Send me the screenshots every few days; I'll keep this table updated in docs/scenes/README.md.
+
+==================================================================================================
+5. ONE-LINE SUMMARY
+==================================================================================================
+Your audience rewards one thing above all: in the first second, a famous maths idea with a visible
+game ("watch this number become φ") and constant change. The Fibonacci video had all of it and got
+31.5k views. Every video that started slow, dense or meme-like stopped at the first test group.

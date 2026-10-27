@@ -1,0 +1,71 @@
+SatFy — REPORT 2026-10-20 (YouTube Studio export: Totals.csv, Table data.csv, Chart data.csv)
+Data: first upload Oct 4 … Oct 19 (Oct 20 uploads are hours old). Archived in reports/exports/2026-10-20/.
+Previous report: reports/2026-10-15_report.txt.
+
+NOTE ON THE NUMBERS: this export has BOTH "Views" and "Engaged views" and a "Stayed to watch" column.
+Views = what the last reports used (Oct 15 total 266,634). The daily chart is now ENGAGED views only
+(about 45 % of Views; channel total 271,526 engaged vs 601,557 views). Do not compare the chart to the old
+daily numbers. Per-video "Views" below are comparable with the Oct 15 report.
+
+======================================================================================================
+1. CHANNEL (5 days since the last report)
+======================================================================================================
+- Views 601,557 (+334,923, x2.26) · watch time 1,630 h (+929) · subscribers 476 net (575 gained, 99 lost; +239 in 5 days)
+- Stayed to watch 62.3 % channel-wide · thumbnail CTR 4.3 % · 44 Shorts + 4 long videos.
+- Engaged views per day: Oct 11 40k -> Oct 12-17 11k-18k -> Oct 18 56k (record) -> Oct 19 49k.
+  Last 7 days 178.5k engaged vs 90.7k the 7 days before (x1.97). Last 2 days = 105.5k engaged.
+- Rough views estimate (engaged x 2.2): ~56k views/day over the last 7 days, ~110-120k/day over the last 2.
+
+======================================================================================================
+2. WHAT THE DATA SAYS
+======================================================================================================
+A) STAYED-TO-WATCH IS STILL THE WHOLE GAME. Across the 44 Shorts: correlation with log(views) = +0.74
+   (n = 44). Shorts with stayed >= 60 %: median 18,009 views (n = 20). Stayed < 50 %: median 1,614 (n = 14).
+   Same as the parent channel (r +0.59). Publish date does not explain it: the weak clips are weak because
+   people leave, not because the channel was small.
+
+B) THE NEW ENGINES (all 66-69 % stayed, 16-25 s):
+   - "Count to a trillion/billion" (stickman counting): 58,479 views in ONE day and 45,174 in 2 days,
+     88 subs together. The quintillion sequel is at 4.2k after 1 day (CTR 10.6 % - watch it).
+   - "Two blocks crash into a wall. Count the hits: pi": 68,266 views in 2 days, avg view 23 s = 149 % (people
+     replay it), 25 subs. Best single new format.
+   - Music + math: "5 math functions build one song" 23.7k views, 68 subs = 2.9 subs per 1,000 views (best on
+     the channel); pi vs phi vs e 12.3k; pi plays Pachelbel 23.4k. Music = the subscriber format.
+   - Fibonacci / golden ratio family: 130k views across 4 videos but only 0.57 subs per 1k.
+   - "16 levels": 24.5k -> 7.3k -> 3.2k -> 1.5k (math, part 2, geometry, algebra). The format is fading with
+     each repeat (Fibonacci levels 11k is the exception). Do not make more of these without a new twist.
+   - Colour only the odd numbers 24.7k, fold paper to the Moon 19.9k, 0.999 = 1 8.7k: good, all 60-67 % stayed.
+
+C) THE BALL / REGRESSION / SINE FAMILY IS THE WEAKEST CONTENT ON THE CHANNEL.
+   ball deviation x5: 8,023 views total (1,413-2,034 each), 7 subs, stayed 32-44 %.
+   regression + sine/cosine: 3,116 views, 0 subs, stayed 37-39 %.
+   Every one of them is under the Shorts median (4,448). The owner's "each over 1000 views" is true, but they
+   sit at the bottom: stayed 38 % vs 62 % channel average.
+   Pi-by-balls was never uploaded.
+
+D) SHORT WINS: 0-15 s: stayed 58 %, median 7.5k views; 15-19 s: 60 %, median 9.9k; 19-23 s: 52 %, 3.6k;
+   23-60 s: 47 %, 2.0k. Every ball clip was 20-26 s.
+
+E) LONG-FORM STILL DOES NOT WORK: hip-hop beat 386 views (33 %), 9-min "Equations That Look Like Art" 188 views
+   (22 %, 2.5 % CTR on 2k impressions), ball long-form 81 views, Stickman Infinity (7 min) 30 views (14 %).
+   Four videos, 685 views total. Watch hours for YPP path 1 (4,000 public long-form hours) are not growing.
+
+======================================================================================================
+3. GOAL CHECK (YouTube Partner Program)
+======================================================================================================
+- Subscribers 476 / 1,000. At ~48 net/day over the last 5 days: about 11 days.
+- Path 2 (10 M Shorts views in 90 days): 601k views in ~17 days. Needs ~111k/day; the last 2 days were
+  roughly at that pace (estimate), the 7-day average is about half. Depends on the next hits.
+- Path 1 (4,000 long-form hours): nowhere close.
+
+======================================================================================================
+4. ACTIONS
+======================================================================================================
+1. Sequels first: pi blocks (nameable changes: 100x heavier block = 2 more digits, a second wall, etc.),
+   count-to-X (quintillion is open; try a different unit of time or distance), music+math (phi/e/sqrt2 + famous song).
+2. Stop making ball-deviation, regression and sine/cosine Shorts. If a stats idea is wanted again, it must pass
+   the opening-3-seconds test (something surprising, 13-17 s, loop) - the first-3-second hook is what those lacked.
+3. Keep Shorts 13-19 s; only songs go to 20 s.
+4. Pause long-form until one Short series has a clear 8-10 min extension with a search title and a thumbnail test
+   (CTR 2-3 % on the long videos is half the Shorts rate).
+5. "Stayed to watch" is the number to check on every new Short at 24 h; kill the idea if it is under 50 %.

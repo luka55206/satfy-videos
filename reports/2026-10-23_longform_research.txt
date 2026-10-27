@@ -1,0 +1,28 @@
+LONG-FORM RESEARCH 2026-10-23 (YouTube search sorted by views, read live)
+
+OUR LONG-FORM: 3 videos, 669 views total, 20-32 % viewed, 0.0 % from suggested (report 2026-10-22).
+Formats tried: math_art (9:15 ambient compilation), stddev_mix (2:11 ball boards), 1 more. None had search demand or a hook.
+
+WHAT WORKS IN LONG-FORM NEAR US (views | length | channel | age)
+- How To Count Past Infinity | 29.7M | 23:46 | Vsauce | 10y        <- big-number journey, one escalating question
+- Human Body Size Comparison | 57.4M | 46:26 | KLT | 6y            <- comparison ladder
+- Count Numbers 0 to 1,000,000 | 12.4M | 49:17 | Numberblocks | 3y <- counting long-form (kids)
+- Everything About Calculus Explained Slowly For Sleep | 2.2M | 2:13:24 | Bub Explains | 7mo (needs a voice)
+- Bad Apple!! played on Desmos | 2.5M | 4:19 | Junferno | 5y  <- copyrighted song (fan-licensed Touhou)
+- A playlist when math starts to get serious | 1.8M | 59:46 | Yruu  <- music playlist, not math visuals
+
+WHAT DOES NOT: ambient "math visuals + music" long-form
+- 20 Min Lofi Math Art to Focus, Study, Relax | 19 views | Dot Theory | 5mo
+- Chill Jazz & Blues Beats, Math Visuals | 17 views | Morphica | 5mo
+- 40 Satisfying Math Animations, Generative Compilation | 163 views | 11d
+- The Most Satisfying Math Shapes | 501 views | 13d
+
+MATH MUSIC = A SHORTS FORMAT
+- If Math Functions had a Sound | 12.8M | 0:35 | Lingualin | 7mo
+- If Math Functions could Dance | 6.8M | 0:23 | Lingualin | 6mo
+- Most Beautiful Heart | 15.0M | 0:08 | onjsdev
+- Our data: music sequels fade (49 / 45.7 / 44.7 % stayed); only music WITH a visual idea holds (pi Canon 64 %, Fur Elise 64.8 %).
+
+COPYRIGHT: a viral pop/chart song played by graphs is still the composition -> Content ID claim (revenue to the
+rights holder) or a strike, even when we synthesise every note. Public domain only (Bach, Pachelbel, Beethoven,
+Mozart, Grieg, Rimsky-Korsakov, Offenbach, Rossini...).

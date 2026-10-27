@@ -1,0 +1,73 @@
+SatFy — NEW SHORT IDEAS (2026-10-22)
+Based on: reports/CHANNEL_KNOWLEDGE.txt and reports/2026-10-22_full_research.md
+
+============================================================
+WHY THE VIDEOS FEEL "LOW QUALITY" NOW
+============================================================
+- Most videos look the same: flat 2-D drawing on a dark background, small labels, nothing grabs the eye in second 1.
+- Many are "a process that runs", not a story with a moment you wait for.
+  (The Lab gets 1.9M because each video is an EVENT: a reactor melting down, not a graph.)
+- The sound is good but not used as the hook (viewers quote it: "third one really said…").
+- Viewers swipe away at the fade back to the start (#1 video retention drops in the last 0.5 s).
+
+============================================================
+VISUAL UPGRADES FOR EVERY NEW VIDEO
+============================================================
+1. Depth, not flat: moving camera (zoom / pan / 3-D tilt), bloom glow on bright things,
+   motion blur on fast things, particles and sparks on impacts.
+2. One HUGE number or object filling the screen in the first second. Labels at least 2x bigger.
+3. Impact on every key event: screen shake + flash + punchy sound.
+4. Strong end beat: no fade-out. Hard cut to a "?" or a twist so the loop feels like a replay.
+5. Distinct, almost voice-like sounds on every event, so people quote them.
+
+============================================================
+IDEAS
+============================================================
+
+--- "___ as math 🔊" stories (The Lab's format; our engine already does sound) ---
+1. A nuclear reactor melts down, as math
+   Temperature, pressure and radiation graphs each make a sound, rising to an alarm. (The Lab: 1.9M)
+2. A supernova, as math
+   A star's last moments: it shrinks, the pitch climbs, it explodes, then silence.
+3. A plane loses an engine, as math
+   Altitude, speed and the stall warning are instruments. Non-graphic; ends with a safe landing.
+4. Your heartbeat during a marathon, as math
+   The ECG becomes the beat: speeds up, then calms down. Relatable.
+
+--- Big numbers / "how long" (count-to-X = engine #2) ---
+5. Counting to a googolplex
+   Impossible: the counter cannot even be written down in the universe. (Requested in comments.)
+6. How long is one year on each planet?
+   Planets orbit with clocks racing. (Tired Monk: 689K)
+7. How many people have ever lived?
+   A counter from 50,000 BC, eras flash past, ends at ~117 billion — "and you are number…?"
+8. Rice doubled on each chessboard square
+   The pile grows from 1 grain to more rice than Earth makes in a thousand years.
+
+--- π blocks (engine #1) ---
+9. π blocks at 10^33 kg (the mass of a star) — requested
+   Screen shakes, ends on "π = 3.14159265358979…".
+10. Three blocks instead of two
+   The count stops spelling π — what happens instead? Curiosity hook.
+
+--- Paradoxes that sound wrong (Lingualin 1.8–3.7M; our 0.999 = 1 drew 32 comments) ---
+11. "This triangle has three right angles" — drawn on a spinning globe.
+12. "8 equal pizza pieces with only 3 cuts" — stacking trick, satisfying slice sound.
+13. "A rope around the Earth, +1 metre: can a cat walk under it?" — new stickman episode, surprise reveal.
+14. "Which is bigger: infinity or infinity + 1?" — stickman debate (debates drive comments).
+
+--- Geometry Dash crowd (top-liked comment jokes are GD references) ---
+15. "The wave is actually y = |sin x|"
+   Math graphs drawn as GD-style levels, an icon flies through, a sound per spike.
+   Keep to the STYLE only: never use the game's assets or its name in titles (someone else's IP).
+
+--- Requests from the comments ---
+16. π, φ and e on the circle of fifths in base 12 (requested, 6 likes).
+17. Pascal's triangle, only multiples of 5 or 7 — a new fractal each time.
+
+============================================================
+BUILD FIRST
+============================================================
+1. Reactor meltdown as math (biggest proven ceiling) with the new depth + impact visuals.
+2. π blocks at 10^33 kg with screen shake and particles (best engine, upgraded look).
+3. How long is one year on each planet (counting format + space).

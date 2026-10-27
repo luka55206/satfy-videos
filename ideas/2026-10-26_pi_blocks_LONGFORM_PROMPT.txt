@@ -1,0 +1,27 @@
+LONG-FORM PROMPT: "TWO BLOCKS THAT COMPUTE π" (16:9, ~8:45)  ·  scene: scenes/pi_long.py
+Why: the π blocks Shorts are the channel's biggest hit (100K+, 66-70 % stayed). Owner (2026-10-26): 8-10 min, and the
+crash moments must NOT be long ("don't count to 314 for 40 seconds"): every dense burst is 2-4 s (fast counter, a ring
+that fills, a strum), never a slow count. The time goes into the setup, the WHY and an escalation of real objects.
+
+ARC
+0:00 COLD OPEN    a 1,000,000 kg block slams in: 3,141 collisions in 3 s → "3,141 … 3.141 = π?!" → title "Two blocks that compute π"
+0:20 THE SETUP    no friction, perfectly elastic, the wall never moves. Equal masses: 3 slow collisions, numbered 1, 2, 3 → "3"
+1:15 100×         31 collisions as a π melody (each hit plays the next digit) → "3.1"
+1:55 10,000×      314 collisions in 4 s (ring fills, strum) → "3.14"
+2:30 WHY π? 1     energy: ½mv² + ½MV² never changes → the velocities live on a CIRCLE (axes √M·V, √m·v)
+3:20 WHY π? 2     momentum: each block-block hit slides the dot along a straight line; each wall hit flips it; every jump
+                  moves the same angle 2θ around the circle (inscribed angles) → the hits = how many jumps fit in 180°
+4:20 WHY π? 3     θ = arctan(√(m/M)) ≈ 1/10, 1/100, 1/1000 → 180° ÷ θ = 31.4…, 314.15… → the digits of π
+5:10 ESCALATION   the big block becomes real objects (each burst 2-3 s, exact counts):
+                  10⁶ kg a freight train → 3,141 · 10⁸ an aircraft carrier → 31,415 · 10¹⁰ ≈ 1.7 Great Pyramids → 314,159 ·
+                  10¹² ≈ 2× every human on Earth → 3,141,592 · 10¹⁴ ≈ Mount Everest → 31,415,926 ·
+                  10²⁴ ≈ ⅙ of the Earth → 3,141,592,653,589 · 10⁵² ≈ a tenth of all the matter in the universe → 27 digits
+7:40 THE PUNCH    a tenth of the universe → only 27 digits; computers know over 100 trillion: the slowest way to get π ever
+8:15 RECAP        the ladder of masses and digits; "Which mass next?" (end screen)
+
+HONEST NUMBERS: counts up to 10¹⁰ kg are simulated collision by collision; above that the exact formula
+N = ⌈π/θ⌉ − 1, θ = arctan(√(m/M)) (it matches every simulated count). Galperin 2003 credited on screen.
+Masses: person ~100 kg, truck ~10 t, freight train ~1,000 t, Nimitz carrier ~100,000 t, Great Pyramid ~6 Mt,
+all humans ~5×10¹¹ kg, Everest ~10¹⁴ kg (estimates vary), Earth 6×10²⁴ kg, observable universe ordinary matter ~10⁵³ kg.
+SOUND: soft marimba digits for slow rounds, harp strums for bursts (never a buzz), a pad that changes per chapter,
+whooshes on transitions, hits on every reveal. -14 LUFS, flash_check.

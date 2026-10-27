@@ -1,0 +1,80 @@
+SatFy — WHAT CONTENT IS BETTER: FULL REPORT (2026-10-15)
+Source: per-video export with stayed-to-watch, % viewed, likes, shares, comments, subscribers gained/lost,
+new/returning viewers (Sep 17 – Oct 15, 30 videos). Archived: reports/exports/2026-10-15/content_full/.
+
+======================================================================================================
+1. THE ONE NUMBER THAT DECIDES REACH: STAYED TO WATCH
+======================================================================================================
+- Across our 28 Shorts, stayed-to-watch vs views per day: correlation r = 0.77 (very strong).
+- Shorts with ≥ 60 % stayed: median 1,903 views/day (11 videos). Below 60 %: median 261/day (17 videos). → 7×.
+- Longer Shorts keep fewer people (length vs stayed r = −0.35).
+
+ Best staying                         stayed        Worst staying                        stayed
+ How Archimedes found π                67.5 %        2000 ball deviation                  33.0 %
+ π plays Pachelbel's Canon             67.4 %        1000 ball deviation                  35.3 %
+ Golden ratio spiral                   66.9 %        30 points, one perfect fit           35.8 %
+ Each one spins 1 more lap             66.5 %        Can sine and cosine ever match?      37.6 %
+ Fibonacci part 2                      65.6 %        Everything here equals 1             43.9 %  ← surprise
+ Für Elise circle                      65.0 %        West Coast beat                      46.2 %
+                                                     Math sounds part 2                   46.4 %
+
+======================================================================================================
+2. CONTENT TYPES COMPARED (views-weighted)
+======================================================================================================
+ type                         videos   views    stayed   viewed   likes/1k  shares/1k  comments/1k  subs/1k
+ Fibonacci / golden ratio        3    115,760   65.8 %   115 %     13.0      0.36       0.22       0.54
+ Escalation / levels             1     23,200   60.7 %   136 %     24.1      0.65       0.60       1.34
+ Math + familiar music           4     33,212   60.8 %   116 %     26.6      0.48       0.48       1.93  ★ subs
+ Math you can hear               2     44,440   58.6 %    82 %     19.8      0.25       0.43       1.13
+ π / history                     1      9,713   67.5 %   124 %     20.5      0.21       0.21       1.03
+ Illusions & geometry            4     17,998   60.1 %   124 %     25.6      0.28       0.78       0.44
+ Emotional / relatable           4      8,512   53.7 %   116 %     28.2      1.29 ★     1.41 ★     1.06
+ Number facts                    1      1,855   58.4 %    89 %     32.9      0.54       0.54       1.62
+ Seasonal (pumpkin, 1 day)       1      1,270   62.2 %    95 %     20.5      0.79       0          0
+ Statistics / plain graphs       7     10,243   38.1 % ✗  75 %     12.8      0.29       0.98       0.59
+ Long-form (2+ min)              2        382     –       34 %     34.0     10.5 ★★    18.3 ★★     2.62
+
+======================================================================================================
+3. WHAT IS BETTER — FOR EACH GOAL
+======================================================================================================
+REACH (views)      → Fibonacci / golden ratio and π: the highest staying (66–68 %) = the algorithm pushes them.
+SUBSCRIBERS        → math + familiar music: 1.93 per 1k (West Coast beat 4.25, math song 2.92, π Canon 0.97).
+SHARES & COMMENTS  → emotional / relatable: 1.29 shares + 1.41 comments per 1k, 4× the Fibonacci videos.
+                     "Can math fall in love?" = 3.05 shares and 3.48 comments per 1k (the channel's best Short for both).
+LIKES              → music, emotional and illusions (25–28 per 1k); spin wave 37.5, equals 1 37.3, West Coast 42.
+LOYAL VIEWERS      → long-form: tiny reach, but 10 shares and 18 comments per 1k and 2.6 subs per 1k.
+STOP               → statistics / plain graphs: 38 % stayed, the lowest of every type.
+
+======================================================================================================
+4. SURPRISES AND WHY
+======================================================================================================
+- "Everything here equals 1": loved by those who stay (37 likes/1k) but only 43.9 % stayed. Its first frame is a
+  heart full of small formulas to READ — people swipe before it pays off. Reading-heavy openings lose people.
+- "Math sounds part 2" (46 %) vs part 1 (62 %): same idea, 27 s long, weaker first sound. Sequels need a stronger
+  first second, not just "more".
+- "West Coast beat": weak staying (46 %) but the best subscriber rate (4.25/1k) — music fans who stay, follow.
+- Fibonacci part 2: our biggest video, but few shares (0.35/1k) and subs (0.38/1k). It's satisfying to watch,
+  not something people send to friends.
+
+======================================================================================================
+5. AUDIENCE
+======================================================================================================
+- 83,919 unique viewers, 1.26 views each. New viewers 75,695 vs returning 597 (0.8 %), regular viewers 0:
+  almost nobody comes back yet — the channel has reach but no habit audience.
+- Subscribers: +286 gained, −49 lost (17 %).
+- To build returning viewers: SERIES with numbered parts and recurring characters (Dot, Zero), and long-form.
+
+======================================================================================================
+6. THE RECIPE + THE NEXT 10 SHORTS
+======================================================================================================
+Opening rule: something MOVING + SOUND on frame 0, no text to read in the first second; ≤ 17 s.
+
+ 3 × golden ratio / Fibonacci / π (reach)            e.g. "16 levels of Fibonacci", pentagram φ star, Pascal
+ 3 × math + familiar music (subscribers)            e.g. e plays Bach, φ plays Für Elise, π vs φ vs e
+ 2 × emotional / relatable (shares + comments)      e.g. "200 circles say I ♥ U", heart equations, "math of love"
+ 1 × escalation / levels (balance)                  "16 levels of math, part 2"
+ 1 × stick-figure puzzle (test comments)            0.999… = 1 or the 3 doors
+ 0 × statistics / plain graphs
+
+Pinned comment for emotional/puzzle Shorts: a share prompt ("send this to …") — shares are the channel's weakest
+number (0.4 per 1k) and the emotional type is the only one that moves it.

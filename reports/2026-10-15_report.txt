@@ -1,0 +1,95 @@
+SatFy — REPORT 2026-10-15 (YouTube Studio export: Totals.csv, Table data.csv, Chart data.csv)
+Data: 2026-09-17 … 2026-10-15 (Oct 15 is partial). Archived in reports/exports/2026-10-15/.
+Previous report: reports/2026-10-14_csv_review.txt (data to Oct 12).
+
+NOTE ON THE NUMBERS: this export has no "Average view duration" column; it has Watch time + Subscribers instead.
+"Watched per view" below = watch time ÷ views. It is NOT the same measure as the AVD in the last report (that one
+counted loops and showed >100 %). Compare videos with each other here, not with the old percentages.
+
+======================================================================================================
+1. CHANNEL
+======================================================================================================
+- 266,634 views (+70,815 in 3 days, +36 %) · 701 watch hours · 237 subscribers · 30 videos.
+- Daily views: Oct 11 83.4k (Fibonacci p2 spike) → Oct 12 37.2k → Oct 13 29.5k → Oct 14 41.6k (new hits took over).
+- The channel no longer depends on one video: 3 different Shorts carried the last 3 days (16 levels, π Canon, math song).
+
+======================================================================================================
+2. PER VIDEO (sorted by views)
+======================================================================================================
+ views  video                                   len  watched/view  views/day  subs  subs per 1k views
+ 68119  Fibonacci part 2                        15s   9.0s  60 %     13,624     23   0.34
+ 45661  Golden ratio spiral                     18s  10.3s  57 %      5,073     32   0.70
+ 35219  Math functions you can hear (p1)        27s  11.6s  43 %      5,870     44   1.25
+ 23200  16 levels of math in 13 s   ★ NEW HIT   13s   7.8s  60 %      4,640     31   1.34   (+20,107; 14,343 on Oct 13)
+ 16411  π plays Pachelbel's Canon   ★ NEW HIT   14s   8.5s  61 %      4,103     15   0.91   (+14,919; 13,306 on Oct 14)
+ 12001  5 math functions build one song ★ NEW   20s   9.4s  47 %      4,000     35   2.92   (2 days old)
+  9713  How Archimedes found π                  13s   7.2s  56 %      1,619      9   0.93
+  9221  7 more graphs (math sounds p2)          27s   9.6s  35 %      1,844      6   0.65
+  6454  Only ONE angle makes a perfect tree     13s   9.5s  73 %      1,614      2   0.31   ← best watch ratio
+  5710  Each one spins 1 more lap (spin wave)   16s   9.1s  57 %      1,903      4   0.70
+  3744  They come so close… never touch         39s  15.2s  39 %        416      2   0.53
+  2930  Consistency beats talent                17s   9.1s  53 %        419      2   0.68
+  2445  Für Elise + the circle (tusi)           17s  11.4s  67 %        815      3   1.23   ← 2nd best ratio
+  2355  West Coast beat is 100 % math           22s   9.1s  42 %        589      9   3.82   ← best subs rate
+  2296  Can math fall in love?                  25s  14.5s  58 %        255      5   2.18
+  2090  Zoomed out 518,000×                     21s   8.4s  40 %        261      0   0
+  1980  Sunflowers use 137.5°                   18s   6.7s  37 %        248      4   2.02
+  1864  Heart when she texts back               15s   7.0s  47 %        266      1   0.54
+  1855  Every number 1–100 has a secret         20s   8.8s  44 %        928      3   1.62
+  1475  Can sine and cosine ever match?         21s   7.3s  35 %        148      0   0
+  1422  Everything here equals 1                16s   7.3s  46 %        711      1   0.70
+  1356  30 points, one perfect fit              20s   6.5s  32 %        136      0   0
+  1270  Happy Halloween from math (pumpkin)     15s   7.6s  51 %      1,270      0   0      (1 day old, early upload)
+  1291–1917  ball deviation ×5                  22–26s      23–33 %   117–160    0–2
+   325  A Hip Hop Beat Made of Math Graphs (LF) 154s 17.9s  12 %         81      1   3.08
+    57  100 vs 5000 Balls (LF)                  132s 20.8s  16 %          5      0   0
+
+======================================================================================================
+3. WHAT CHANGED AND WHY
+======================================================================================================
+A) "MATH + FAMILIAR MUSIC" IS NOW PROVEN. π + Pachelbel's Canon (16.4k, 61 %) did 9× the plain π videos and took
+   off 2 days after upload. The math song (12k in 2 days) and Für Elise circle (67 % watched) confirm it.
+   → Continue the "famous numbers play famous songs" series: e plays Bach (ready in needs-review), φ, √2.
+
+B) LATE TAKE-OFFS ARE NORMAL. 16 levels went from 1–2k/day to 14.3k on its 3rd day; π Canon on its 3rd day too.
+   → Don't judge a Short before ~72 h. Don't delete or re-upload "slow" ones.
+
+C) SHORT + LOOPABLE STILL WINS ON WATCH RATIO: perfect tree 73 % (13 s), Für Elise 67 %, π Canon 61 %,
+   16 levels 60 %, Fibonacci 60 %. Everything ≥ 25 s sits at 35–43 % (except the emotional "fall in love").
+   → Keep Shorts 13–17 s where possible; 20 s max unless it's a song.
+
+D) SUBSCRIBERS COME FROM MUSIC AND FEELINGS, NOT FROM THE BIGGEST HITS. Per 1,000 views: West Coast beat 3.8,
+   math song 2.9, "fall in love" 2.2, sunflower 2.0 — vs Fibonacci p2 0.34 and perfect tree 0.31.
+   → Views come from satisfying loops; followers come from music + emotion. Mix both in the schedule.
+
+E) LONG-FORM IS NOT WORKING YET. Hip-hop beat (2:34): 325 views, 12 % watched; ball long-form: 57 views.
+   These were short (under 3 min), had no strong hook/thumbnail and no search title.
+   → The 9-min "Equations That Look Like Art" and the Dot films need: a strong thumbnail, a search-phrase title,
+     and the "Related video" link from a hit Short. Watch hours for monetisation only count from long-form.
+
+F) DEAD FORMATS: ball deviation ×5 (23–33 %, ~120 views/day each), sine/cosine, regression (0 subs).
+   → Don't make more of these.
+
+G) TOO EARLY TO JUDGE: equals one (1.4k), number secrets (1.9k), pumpkin (1.3k in 1 day — it's early for Halloween;
+   it should grow toward Oct 31), spin wave (5.7k in 2 days, doing well).
+
+======================================================================================================
+4. GOAL CHECK (YouTube Partner Program)
+======================================================================================================
+- Subscribers: 237 / 1,000.
+- Path 1: 4,000 public long-form watch hours (Shorts hours do NOT count) — almost nothing yet.
+- Path 2: 10 M Shorts views in 90 days — 266k so far in ~12 days (≈ 22k/day; needs ≈ 110k/day).
+- At the current pace, subscribers are the nearest milestone; music/emotional Shorts grow them fastest (see D).
+
+======================================================================================================
+5. ACTIONS
+======================================================================================================
+1. Upload next: e plays Bach (famous-songs series), stickman 0.999… = 1 and paper-to-the-Moon (new format test),
+   Pascal (short, loopable).
+2. Make a sequel to 16 levels of math ("16 levels of math, part 2") and to π Canon (φ or √2 with another famous piece).
+3. Keep Shorts at 13–17 s; songs may be 20 s.
+4. Upload the 9-min "Equations That Look Like Art" with a search title + thumbnail, and link it as the Related video
+   from the top Shorts (Fibonacci p2, 16 levels, π Canon).
+5. Stop: ball deviation, regression, sine/cosine-style plain graph videos.
+6. Next export around Oct 18–19 — and if Studio allows, add "Stayed to watch" (Shorts feed) and
+   "Average view duration" columns so watch ratio is comparable over time.
